@@ -1,4 +1,4 @@
-= SimpleCalc
+# SimpleCalc
 
 dead simple Calculator, written in Cappuccino.
 
